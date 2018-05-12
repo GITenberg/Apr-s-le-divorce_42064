@@ -1,0 +1,28 @@
+_repo: Apr-s-le-divorce_42064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42064-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bovet, Marie-Anne de
+    aliases:
+    - Bovet, Marie Anne de
+    - De Bovet, Marie-Anne
+    gutenberg_agent_id: '41504'
+    url: http://www.gutenberg.org/2009/agents/41504
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42064'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Après le divorce
+url: http://www.gutenberg.org/ebooks/42064
